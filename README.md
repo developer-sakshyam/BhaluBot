@@ -3,23 +3,23 @@ BhaluBot develop by lord-sakshyam <br> BhaluModBot — A reliable and easy-to-us
 <br>
 commands in this bot:-
 <br>
-<h3>/clear [amount] <br>
+<h4>/clear [amount] <br>
 Description: Deletes the specified number of recent messages in the channel, regardless of who sent them. <br>
 Usage: /clear 5 → deletes the last 5 messages in the channel. <br>
 Note: The command will also delete its own message after running. <br>
 Permissions Needed: Manage Messages <br>
-Limit: Can only delete messages from the last 14 days due to Discord rules. </h3>
+Limit: Can only delete messages from the last 14 days due to Discord rules. </h4>
 <br>
-<h3>/clean [@user] [amount] <br>
+<h4>/clean [@user] [amount] <br>
 Description: Deletes a specific number of messages sent by a mentioned user in the current channel. <br>
 Usage: /clean @username 3 → deletes 3 messages sent by @username. <br>
 Note:
 Works only in the current channel. <br>
 It won’t delete other users' messages except the given username one. <br>
 It might include your messages if you're the user being cleaned.
-</h3>
+</h4>
 
-<h3>/core <br>
+<h4>/core <br>
 Description: Displays a list of all available commands that the bot can perform. <br>
 Usage: Simply type /core <br>
 Example Output: <br>
@@ -30,9 +30,9 @@ Example Output: <br>
 
 /logs — Check user logs <br>
 
-/core — Show this help menu <br> </h3>
+/core — Show this help menu <br> </h4>
 
-<h3>/logs @user <br>
+<h4>/logs @user <br>
 Description: Shows log details or past actions (like message deletions, joins, leaves, or warnings) of a specific user. <br>
 Usage: /logs @username — displays logs related to @username <br>
-Note: You must mention the user. Admin-only command in most setups.</h3>
+Note: You must mention the user. Admin-only command in most setups.</h4>
