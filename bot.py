@@ -87,4 +87,4 @@ async def addlog(ctx, user: discord.User, type: str, *, reason: str):
     })
     await ctx.send(f"Log added for {user.name}")
 
-bot.run("MTM5NzA0NzY2NTM1MDQxMDMwMA.GWrs2A.oxQJcU_Vnt9WzM4sGTAXYtfJJ_ksKUgMFam9FM")
+bot.run("YOUR_AUTH_TOKEN")
