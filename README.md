@@ -4,24 +4,37 @@ BhaluBot develop by lord-sakshyam <br> BhaluModBot — A reliable and easy-to-us
 commands in this bot:-
 <br>
 <h4>/clear [amount] <br>
-Description: Deletes the specified number of recent messages in the channel, regardless of who sent them. <br>
+  
+Description: Deletes the specified number of recent messages in the channel, regardless of who sent them. <br
+                                                                                                            
 Usage: /clear 5 → deletes the last 5 messages in the channel. <br>
+
 Note: The command will also delete its own message after running. <br>
-Permissions Needed: Manage Messages <br>
+
+Permissions Needed: Manage Messages <br
+                                      
 Limit: Can only delete messages from the last 14 days due to Discord rules. </h4>
 <br>
 <h4>/clean [@user] [amount] <br>
+  
 Description: Deletes a specific number of messages sent by a mentioned user in the current channel. <br>
+
 Usage: /clean @username 3 → deletes 3 messages sent by @username. <br>
+
 Note:
 Works only in the current channel. <br>
+
 It won’t delete other users' messages except the given username one. <br>
+
 It might include your messages if you're the user being cleaned.
 </h4>
 
 <h4>/core <br>
-Description: Displays a list of all available commands that the bot can perform. <br>
+  
+Description: Displays a list of all available commands that the bot can perform. <br
+                                                                                   
 Usage: Simply type /core <br>
+
 Example Output: <br>
 
 /clear — Clear messages <br>
