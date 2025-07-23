@@ -3,6 +3,7 @@
 Developed by lord-sakshyam
 
 BhaluModBot is a reliable and easy-to-use moderation bot for Discord. It helps keep servers clean, safe, and well-managed with simple slash commands. Whether you're moderating a large server or running a private community, BhaluModBot has the tools you need.
+
 ---
 🚀 Features
 🔧 Quick message deletion
@@ -14,6 +15,7 @@ BhaluModBot is a reliable and easy-to-use moderation bot for Discord. It helps k
 📌 Core help menu
 
 📊 In-game stats via Hypixel API (e.g., /stats username:mr_bhalu)
+
 ---
 Simple, lightweight, and effective
 
@@ -46,6 +48,7 @@ Notes:
 Works only in the current channel.
 
 Only deletes messages from the mentioned user.
+
 ---
 /logs @user
 Description:
@@ -76,6 +79,7 @@ Edit
 /stats username:<IGN>
 Description:
 Fetches basic game statistics using the Hypixel API for Minecraft players.
+
 ---
 Usage:
 /stats game:bedwars username:mr_bhalu
@@ -94,6 +98,7 @@ Embed Links
 Read Message History
 
 Use Slash Commands
+
 ---
 <br>
 <h2>****UPDATED**** </h2>
