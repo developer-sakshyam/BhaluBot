@@ -49,3 +49,24 @@ Example Output: <br>
 Description: Shows log details or past actions (like message deletions, joins, leaves, or warnings) of a specific user. <br>
 Usage: /logs @username — displays logs related to @username <br>
 Note: You must mention the user. Admin-only command in most setups.</h4>
+<br>
+<h2>****UPDATED**** </h2>
+<br>
+--<h4>ADDED #🧙 Hypixel BEDWARS Stats</h4>
+
+A simple Discord bot that fetches and displays **Hypixel BEDWARS stats** using the official Hypixel API.
+
+---
+
+## ⚙️ Features
+
+- 📊 `/stats` slash command to get Minecraft player BEDWARS stats  
+- 🎮 Supports game-specific stats like Bedwars, Skywars, Duels, etc.  
+- 🧠 Built with `discord.py` and `aiohttp`  
+- 🌐 Uses Mojang API to resolve Minecraft UUID  
+- 🔐 Uses your own Hypixel API key  
+
+---
+
+
+
