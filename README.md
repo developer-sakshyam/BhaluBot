@@ -118,6 +118,28 @@ A simple Discord bot that fetches and displays **Hypixel BEDWARS stats** using t
 - 🔐 Uses your own Hypixel API key  
 
 ---
+<h2>UPDATED!</h2>
+--
+📊 /guildstats Command
+Fetch detailed information about any Hypixel guild using the official Hypixel API! ⚡
+
+✨ Features:
+🏷️ Guild Name & Tag
+
+🆙 Guild Level & Experience
+
+👥 Member Count
+
+🔎 Search by Guild Name or Player IGN
+
+🛠️ Usage:
+bash
+Copy
+Edit
+/guildstats <guild name or player IGN>
+💡 Fast, reliable, and great for moderation or tracking your own guild stats.
+
+---
 
 
 
